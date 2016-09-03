@@ -1,2 +1,0 @@
-# huhc_portal
-HUHC
